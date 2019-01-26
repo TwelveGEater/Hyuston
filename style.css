@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 30px 50px;
+    padding: 0px;
+    font-family: 'Noto Serif SC', serif;
+    
+}
+
+a {
+    font-style: none;
+}
+
+li {
+    list-style: numbers;
+}
+
+img {
+    width: 300px;
+}
+
+table {
+    border: 2px;
+}
+
+.weather {
+    text-align: -webkit-center
+}
+
+
+.hyuston_company {
+    width: 100%;
+    text-align: left;
+}
+
+.hyuston_population {
+    border-right-width: 500px;
+    text-align: left;
+    margin-left: 0px;
+    width: 23%;
+}
+
+.after-caption {
+    text-align: left;
+    caption-side: bottom; 
+}
